@@ -13,7 +13,7 @@
 
 ## MW & MWT 文档
 
-<img height="100%" width="130" src="[https://statics.netfox.wiki/MWDOCS-Dark.png](https://statics.netfox.wiki/20240302/mwdocs-logo-link.8hg7t2v6wm.webp)">
+<img height="100%" width="130" src="https://statics.netfox.wiki/20240302/mwdocs-logo-link.8hg7t2v6wm.webp">
 
 用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
 
