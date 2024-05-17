@@ -1,4 +1,4 @@
-![](https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp)
+![](https://statics.netfox.wiki/20240503/retouch_2024050218311877.9kfzkytvtw.webp)
 
 # 关于我们
 
@@ -9,13 +9,6 @@
 联系邮箱：
 [support@netfox.wiki](support@netfox.wiki)
 
-# 我们的项目
+# 我们的官方网站
 
-## MW & MWT 文档
-
-<img height="100%" width="130" src="https://statics.netfox.wiki/20240302/mwdocs-logo-link.8hg7t2v6wm.webp">
-
-用于记录 **现代战舰** 与 **现代战争：坦克** 内容的文档网站 🍂
-
-
-
+[netfox.wiki](https://netfox.wiki)
