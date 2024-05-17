@@ -1,4 +1,4 @@
-![](https://statics.netfox.wiki/20240503/retouch_2024050218311877.9kfzkytvtw.webp)
+![](https://statics.netfox.wiki/20240302/world-banner.5c0pu50s17.webp)
 
 # 关于我们
 
